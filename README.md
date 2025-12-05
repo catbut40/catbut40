@@ -1,7 +1,15 @@
-## Hi there I'm Catbut40👋
+# Hi there, I'm Cathy B. 👋
 
-<!--
-**catbut40/catbut40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate developer from Bangalore
+
+* 🔭 I’m currently working on github ( learning from skillup online )
+* 🌱 I’m currently learning Data analytics...
+* 👯 I’m looking to collaborate on Abhay Desai...
+* 💬 Ask me about football...
+* 📫 How to reach me: cliz357@bellsouth.net
+* ⚡ Fun fact: ...
+
+---
 
 ### 🛠️ My Tech Stack
 
